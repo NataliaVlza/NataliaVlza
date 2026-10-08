@@ -13,11 +13,7 @@
 
 <br>
 
-### Sobre Mí 👩‍💻
-
-Estudiante de Ingeniería en Sistemas de Información en la Universidad de Sonora. Busco seguir aprendiendo metodologías de desarrollo y fortalecer mis habilidades prácticas en programación y documentación técnica.
-
-<hr>
+<br>
 
 - 🎓 **Universidad:** Universidad de Sonora (UNISON) - Facultad Interdisciplinaria de Ingenierías
 - ✉️ **Contacto:** natalia.sanchezvlza@gmail.com
